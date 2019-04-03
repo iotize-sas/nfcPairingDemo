@@ -1,5 +1,7 @@
 {
   "name": "nfcPairing",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
